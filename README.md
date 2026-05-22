@@ -3,7 +3,7 @@
 Let's explore the world modeling potentials on MindSpore ;) 
 
 > [!NOTE]
-> The interactive UI below is better rendered in `vscode`.
+The interactive **3D rendering UI** below is better rendered in `vscode`.
 
 
 ## News
